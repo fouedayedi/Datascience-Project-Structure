@@ -1,7 +1,6 @@
-Myfurniture
+Data science Project structure
 ==============================
 
-a mobile app that allows customers to view furniture and home decor items in their spaces with a few
 
 Project Organization
 ------------
